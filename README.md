@@ -4,12 +4,6 @@ A modern, production-ready **Calculator Web App** built with pure **HTML, CSS, a
 
 > Built as part of the **CodeAlpha Frontend Development Internship Program.**
 
----
-
-> 🔗 **Live Demo:** [your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
-
----
-
 ## ✨ Features
 
 ### 🎨 UI / Design
