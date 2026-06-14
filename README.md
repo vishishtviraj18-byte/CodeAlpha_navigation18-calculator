@@ -4,6 +4,10 @@ A modern, production-ready **Calculator Web App** built with pure **HTML, CSS, a
 
 > Built as part of the **CodeAlpha Frontend Development Internship Program.**
 
+---
+
+---
+
 ## ✨ Features
 
 ### 🎨 UI / Design
@@ -127,7 +131,7 @@ if (state.operator && !state.waitingForNext) {
 
 ## 👤 Author
 
-**Your Name**
+**Vishisht Viraj**
 Frontend Developer Intern — CodeAlpha
 [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
 
