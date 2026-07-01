@@ -2,7 +2,7 @@
 
 A modern, production-ready **Calculator Web App** built with pure **HTML, CSS, and JavaScript** — no frameworks, no dependencies. Designed with a premium **Glassmorphism dark/light theme**, smooth animations, calculation history, and full keyboard support.
 
-> Built as part of the **CodeAlpha Frontend Development Internship Program.**
+> Built as part of the **CodeAlpha Frontend Development Internship Program.
 
 ---
 
